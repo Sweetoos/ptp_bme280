@@ -26,7 +26,7 @@
  * THE SOFTWARE.
  */
 
-#include "bme280.h"
+#include <bme280.h>
 
 /**
  * BMP280 registers
